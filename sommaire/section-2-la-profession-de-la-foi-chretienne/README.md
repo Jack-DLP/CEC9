@@ -1,0 +1,22 @@
+# Section 2) La profession de la foi chrétienne
+
+[Les symboles de la foi](les-symboles-de-la-foi.md)
+
+{% content-ref url="../1re-partie-la-profession-de-la-foi-26/chapitre-3-la-reponse-de-lhomme-a-dieu/article-2-nous-croyons/le-credo.md" %}
+[le-credo.md](../1re-partie-la-profession-de-la-foi-26/chapitre-3-la-reponse-de-lhomme-a-dieu/article-2-nous-croyons/le-credo.md)
+{% endcontent-ref %}
+
+
+
+[Chapitre 1) Je crois en Dieu le Père](chapitre-1-je-crois-en-dieu-le-pere/)
+
+Chapitre 2) Je crois en Jésus-Christ, le fils unique de Dieu
+
+Chapitre 3) Je crois en l'Esprit-Saint
+
+
+
+[_ascendant_](../1re-partie-la-profession-de-la-foi-26/)
+
+
+
