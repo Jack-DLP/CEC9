@@ -12,7 +12,9 @@ Copyright © Libreria Editrice Vaticana 1992
 
 ## Version originale ?
 
-Seules des modifications mineures ont étés apportées à la version originale, telles que la correction de fautes de frappes (n'hésitez pas à nous les [signaler ](contact.md)! 😊) ou la mise en conformité des textes par rapport à la dernière traduction liturgique (dans le Credo : "de même nature" => "consubstantiel").
+Seules des modifications mineures ont étés apportées à la version originale, telles que la correction de fautes de frappes (n'hésitez pas à nous les [signaler ](contact.md)! 😊) ou la mise en conformité des textes par rapport à la dernière traduction liturgique (dans le Credo : "de même nature" => "consubstantiel"...).
+
+Les citations Biblique n'ont cependant pas été actualisées à la dernère traduction litrugique;
 
 ## Pourquoi une autre version ?
 
@@ -41,11 +43,19 @@ Une version numérique offre l'avantage d'être toujours dans la poche (CEC9 est
 
 Néanmoins, cela ne remplace pas le confort d'une version papier, qui sera toujours disponible en cas de coupure de courant ou d'internet. Il faut voir CEC9 comme un outil complémentaire à la version papier.
 
+## Puis-je télécharger ce site ?
+
+Si vous souhaiter accéder à ce site en hors connexion, cela n'est malheureusement pas posible.
+
+Vous pouvez néanmoins acheter le CEC papier, ou le [télécharger en PDF](autres-versions-du-cec.md#fichier-pdf).
+
+Il est possible d'accéder et de télécharger le code source sur [Github](https://github.com/Jack-DLP/CEC9), les textes sont au format Markdown, vous pourrez les afficher/réutiliser avec un logiciel compatible.
+
 ## Qui sommes-nous ?
 
 Une équipe de pauvres bénévoles, cherchant à servir le Seigneur avec les outils modernes.
 
-Nous dédions ces pages à la Très Sainte Vierge Marie, par l'intercession du Bienheureux Carlos Acutis. AMDG
+Nous dédions ces pages à notre Seigneur, par l'intercession de la très Sainte Vierge Marie, et du Bienheureux Carlos Acutis. AMDG.
 
 Pour nous contacter : [Contact](contact.md)
 

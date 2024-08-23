@@ -9,7 +9,7 @@
   *   [Section 2) La profession de la foi chrétienne](section-2-la-profession-de-la-foi-chretienne/); §185
 
       * [Chapitre 1) Je crois en Dieu le Père](section-2-la-profession-de-la-foi-chretienne/chapitre-1-je-crois-en-dieu-le-pere/); §198
-      * Chapitre 2) Je crois en Jésus-Christ, le fils unique de Dieu; §422
+      * [Chapitre 2) Je crois en Jésus-Christ, le fils unique de Dieu](section-2-la-profession-de-la-foi-chretienne/chapitre-2-je-crois-en-jesus-christ-le-fils-unique-de-dieu/); §422
       * Chapitre 3) Je crois en l'Esprit-Saint; §683
 
 

@@ -10,7 +10,7 @@
 
 [Chapitre 1) Je crois en Dieu le Père](chapitre-1-je-crois-en-dieu-le-pere/)
 
-Chapitre 2) Je crois en Jésus-Christ, le fils unique de Dieu
+[Chapitre 2) Je crois en Jésus-Christ, le fils unique de Dieu](chapitre-2-je-crois-en-jesus-christ-le-fils-unique-de-dieu/)
 
 Chapitre 3) Je crois en l'Esprit-Saint
 

@@ -4,6 +4,10 @@ description: Derniers ajouts et modifications
 
 # Suivi des modifications
 
+## 23-08-2024
+
+Publication code source. Ajout jusqu'à §483. Màj liens.
+
 ## 16-08-2024
 
 Mise en forme. Ajout jusqu'à §324. Màj liens.

@@ -52,7 +52,7 @@ Cette version est accessible sur ordinateur comme sur smartphone. Vous pouvez [i
 
 [Mode d'emploi](cec9-accueil/mode-demploi.md)
 
-[Autres versions du CEC en ligne](cec9-accueil/autres-versions-du-cec-en-ligne.md)
+[Autres versions du CEC en ligne](cec9-accueil/autres-versions-du-cec.md)
 
 [Suivi des modifications](cec9-accueil/suivi-des-modifications.md)
 
