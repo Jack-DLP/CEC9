@@ -42,7 +42,10 @@ C’est de cette connaissance amoureuse du Christ que jaillit le désir de L’a
 
 
 
-[Article 2 " ET EN JÉSUS-CHRIST, SON FILS UNIQUE, NOTRE SEIGNEUR "](article-2-et-en-jesus-christ-son-fils-unique-notre-seigneur.md)\
+[Article 2 " ET EN JÉSUS-CHRIST, SON FILS UNIQUE, NOTRE SEIGNEUR "](article-2-et-en-jesus-christ-son-fils-unique-notre-seigneur.md)
+
 [Article 3 " JÉSUS-CHRIST A ÉTÉ CONÇU DU SAINT-ESPRIT, IL EST NÉ DE LA VIERGE MARIE "](article-3-jesus-christ-a-ete-concu-du-saint-esprit-il-est-ne-de-la-vierge-marie/)
+
+[Article 4 " JÉSUS-CHRIST A SOUFFERT SOUS PONCE PILATE, IL A ÉTÉ CRUCIFIÉ, IL EST MORT... "](article-4-jesus-christ-a-souffert-sous-ponce-pilate-il-a-ete-crucifie-il-est-mort.../)
 
 [_ascendant_](../)

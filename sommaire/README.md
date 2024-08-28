@@ -5,11 +5,11 @@
   * [Section 1) «Je crois» — «Nous croyons»](1re-partie-la-profession-de-la-foi-26/section-1-je-crois-nous-croyons/); §26&#x20;
     * [Chapitre 1) L'homme est "capable" de Dieu](1re-partie-la-profession-de-la-foi-26/section-1-je-crois-nous-croyons/chapitre-1-lhomme-est-capable-de-dieu.md); §27
     * [Chapitre 2) Dieu à la rencontre de l'homme](1re-partie-la-profession-de-la-foi-26/section-1-je-crois-nous-croyons/chapitre-2-dieu-a-la-rencontre-de-lhomme/); §50
-    * [Chapitre 3) La réponse de l'homme à Dieu](1re-partie-la-profession-de-la-foi-26/chapitre-3-la-reponse-de-lhomme-a-dieu/); §142
-  *   [Section 2) La profession de la foi chrétienne](section-2-la-profession-de-la-foi-chretienne/); §185
+    * [Chapitre 3) La réponse de l'homme à Dieu](1re-partie-la-profession-de-la-foi-26/section-1-je-crois-nous-croyons/chapitre-3-la-reponse-de-lhomme-a-dieu/); §142
+  *   [Section 2) La profession de la foi chrétienne](1re-partie-la-profession-de-la-foi-26/section-2-la-profession-de-la-foi-chretienne/); §185
 
-      * [Chapitre 1) Je crois en Dieu le Père](section-2-la-profession-de-la-foi-chretienne/chapitre-1-je-crois-en-dieu-le-pere/); §198
-      * [Chapitre 2) Je crois en Jésus-Christ, le fils unique de Dieu](section-2-la-profession-de-la-foi-chretienne/chapitre-2-je-crois-en-jesus-christ-le-fils-unique-de-dieu/); §422
+      * [Chapitre 1) Je crois en Dieu le Père](1re-partie-la-profession-de-la-foi-26/section-2-la-profession-de-la-foi-chretienne/chapitre-1-je-crois-en-dieu-le-pere/); §198
+      * [Chapitre 2) Je crois en Jésus-Christ, le fils unique de Dieu](1re-partie-la-profession-de-la-foi-26/section-2-la-profession-de-la-foi-chretienne/chapitre-2-je-crois-en-jesus-christ-le-fils-unique-de-dieu/); §422
       * Chapitre 3) Je crois en l'Esprit-Saint; §683
 
 

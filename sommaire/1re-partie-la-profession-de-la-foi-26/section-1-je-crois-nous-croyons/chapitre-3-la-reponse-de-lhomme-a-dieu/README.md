@@ -14,4 +14,4 @@ _Par la foi_ l’homme soumet complètement son intelligence et sa volonté à D
 
 
 
-[_ascendant_](../section-1-je-crois-nous-croyons/)\
+[_ascendant_](../)\

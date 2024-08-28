@@ -2,8 +2,8 @@
 
 [Les symboles de la foi](les-symboles-de-la-foi.md)
 
-{% content-ref url="../1re-partie-la-profession-de-la-foi-26/chapitre-3-la-reponse-de-lhomme-a-dieu/article-2-nous-croyons/le-credo.md" %}
-[le-credo.md](../1re-partie-la-profession-de-la-foi-26/chapitre-3-la-reponse-de-lhomme-a-dieu/article-2-nous-croyons/le-credo.md)
+{% content-ref url="../section-1-je-crois-nous-croyons/chapitre-3-la-reponse-de-lhomme-a-dieu/article-2-nous-croyons/le-credo.md" %}
+[le-credo.md](../section-1-je-crois-nous-croyons/chapitre-3-la-reponse-de-lhomme-a-dieu/article-2-nous-croyons/le-credo.md)
 {% endcontent-ref %}
 
 
@@ -16,7 +16,7 @@ Chapitre 3) Je crois en l'Esprit-Saint
 
 
 
-[_ascendant_](../1re-partie-la-profession-de-la-foi-26/)
+[_ascendant_](../)
 
 
 

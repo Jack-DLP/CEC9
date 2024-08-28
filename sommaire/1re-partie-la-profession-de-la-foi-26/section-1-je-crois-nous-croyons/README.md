@@ -10,7 +10,7 @@ Lorsque nous professons notre foi, nous commençons par dire : " Je crois " ou "
 
 [Chapitre 2) Dieu à la rencontre de l'homme](chapitre-2-dieu-a-la-rencontre-de-lhomme/)
 
-[Chapitre 3) La réponse de l'homme à Dieu](../chapitre-3-la-reponse-de-lhomme-a-dieu/)
+[Chapitre 3) La réponse de l'homme à Dieu](chapitre-3-la-reponse-de-lhomme-a-dieu/)
 
 
 
