@@ -142,7 +142,7 @@ La Croix est l’unique sacrifice du Christ " seul médiateur entre Dieu et les 
 
 > En dehors de la Croix il n’y a pas d’autre échelle par où monter au ciel (Ste. Rose de Lima, vita).
 
-EN BREF
+## EN BREF
 
 #### 619
 

@@ -12,7 +12,7 @@
 
 [Chapitre 2) Je crois en Jésus-Christ, le fils unique de Dieu](chapitre-2-je-crois-en-jesus-christ-le-fils-unique-de-dieu/)
 
-Chapitre 3) Je crois en l'Esprit-Saint
+[Chapitre 3) Je crois en l'Esprit-Saint](../chapitre-3-je-crois-en-lesprit-saint/)
 
 
 

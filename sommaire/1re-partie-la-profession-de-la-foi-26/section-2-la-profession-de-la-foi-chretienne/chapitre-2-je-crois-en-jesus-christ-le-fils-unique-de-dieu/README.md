@@ -48,4 +48,12 @@ C’est de cette connaissance amoureuse du Christ que jaillit le désir de L’a
 
 [Article 4 " JÉSUS-CHRIST A SOUFFERT SOUS PONCE PILATE, IL A ÉTÉ CRUCIFIÉ, IL EST MORT... "](article-4-jesus-christ-a-souffert-sous-ponce-pilate-il-a-ete-crucifie-il-est-mort.../)
 
+[Article 5 " JÉSUS-CHRIST EST DESCENDU AUX ENFERS, EST RESSUSCITÉ DES MORTS LE TROISIÈME JOUR "](article-5-jesus-christ-est-descendu-aux-enfers-est-ressuscite-des-morts-le-troisieme-jour/)
+
+[Article 6 " JESUS EST MONTE AUX CIEUX, IL SIEGE A LA DROITE DE DIEU, LE PERE TOUT-PUISSANT "](article-6-jesus-est-monte-aux-cieux-il-siege-a-la-droite-de-dieu-le-pere-tout-puissant.md)
+
+[Article 7 " D’OÙ IL VIENDRA JUGER LES VIVANTS ET LES MORTS "](article-7-dou-il-viendra-juger-les-vivants-et-les-morts.md)
+
+
+
 [_ascendant_](../)
